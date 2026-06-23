@@ -270,6 +270,7 @@ Note: Base class and sub classes have respective methods and instance variables.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aadicoder1/Summer_Assignment_2401920130001/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aadicoder1/Summer_Assignment_2401920130001/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -278,5 +279,14 @@ Note: Base class and sub classes have respective methods and instance variables.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aadicoder1/Summer_Assignment_2401920130001/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aadicoder1/Summer_Assignment_2401920130001/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aadicoder1/Summer_Assignment_2401920130001/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aadicoder1/Summer_Assignment_2401920130001/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
